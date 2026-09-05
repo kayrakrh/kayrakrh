@@ -6,12 +6,13 @@ Projelerle uğraşmadığım zamanlarda rehberler hazırlıyorum veya göz önü
 -->
 
 ## Kayra
-Merhaba, ben Kayra
+Merhaba, ben Kayra.
 <br>
-Yazılım geliştiricisiyim. 2 yıl alaylı ve 2025'de meslekî okuldan mezun olmamla birlikte toplamda 6 yıldır yazılım ile uğraşıyorum
+Yazılım geliştiricisiyim. 2 yıl alaylı olarak, 4 yıl mesleki eğitim ardından 2025'te meslekî okuldan mezun oldum. 
 
-İrili ufaklı projeler geliştiriyorum<br>
-Yazılım projeleriyle uğraşmıyorsam muhtemelen rehber yapıyor veya yazılım paketliyorumdur
+İrili ufaklı projeler geliştiriyorum.
+<br>
+Yazılım projeleriyle uğraşmıyorsam muhtemelen rehber hazırlıyor veya yazılım paketliyorumdur
 
 ### Yeteneklerim
 [![My Skills](https://skillicons.dev/icons?i=bun,cs,python,linux,androidstudio,java)](https://skillicons.dev)
