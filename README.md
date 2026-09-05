@@ -12,21 +12,15 @@ Yazılım geliştiricisiyim. 2 yıl alaylı ve 2025'de meslekî okuldan mezun ol
 İrili ufaklı projeler geliştiriyorum<br>
 Yazılım projeleriyle uğraşmıyorsam muhtemelen rehber yapıyor veya yazılım paketliyorumdur
 
-
-
 ## Skills
 [![My Skills](https://skillicons.dev/icons?i=bun,cs,python,linux,androidstudio,java)](https://skillicons.dev)
 
-## Paketlediğim Yazılımlar
-[Paketlediğim yazılımların listesi](https://github.com/kayrakrh/paket-listesi)
-
-## Projelerim
-
-## Rehberlerim
-[Son Kullanıcı İçin Linux Rehberi](https://github.com/kayrakrh/Linux-Rehberi)
+## Projelerim ve Rehberlerim
+- [Son Kullanıcı İçin Linux Rehberi](https://github.com/kayrakrh/Linux-Rehberi)
+- [Paketlediğim yazılımların listesi](https://github.com/kayrakrh/paket-listesi)
 
 ## İletişim
-mail: `bgmkayra@proton.me`
+[![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:bgmkayra@proton.me)
 
 ## Diller
 ### Çalışabildiğim diller
