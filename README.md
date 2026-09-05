@@ -13,3 +13,9 @@ Projelerle uğraşmadığım zamanlarda rehberler hazırlıyorum veya göz önü
 ## Projelerim
 
 ## Rehberlerim
+
+## Diller
+### Çalışabildiğim diller
+- 🇹🇷 / 🇦🇿
+### Öğrendiğim diller
+- 🇯🇵 (N5)
