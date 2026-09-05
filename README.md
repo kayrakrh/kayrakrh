@@ -24,6 +24,6 @@ Yazılım projeleriyle uğraşmıyorsam muhtemelen rehber yapıyor veya yazılı
 
 ## Diller
 ### Çalışabildiğim diller
-- 🇹🇷 / 🇦🇿
+- 🇹🇷 / 🇦🇿 / 🇺🇸
 ### Öğrendiğim diller
 - 🇯🇵 (N5)
