@@ -23,6 +23,7 @@ Yazılım projeleriyle uğraşmıyorsam muhtemelen rehber yapıyor veya yazılı
 ## Projelerim
 
 ## Rehberlerim
+[Son Kullanıcı İçin Linux Rehberi](https://github.com/kayrakrh/Linux-Rehberi)
 
 ## İletişim
 mail: `bgmkayra@proton.me`
