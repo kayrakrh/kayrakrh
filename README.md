@@ -8,6 +8,7 @@ Projelerle uğraşmadığım zamanlarda rehberler hazırlıyorum veya göz önü
 [![My Skills](https://skillicons.dev/icons?i=bun,cs,python,linux,androidstudio,java)](https://skillicons.dev)
 
 ## Paketlediğim Yazılımlar
+[Paketlediğim yazılımların listesi](https://github.com/kayrakrh/paket-listesi)
 
 ## Projelerim
 
