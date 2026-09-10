@@ -8,6 +8,7 @@ Projelerle uğraşmadığım zamanlarda rehberler hazırlıyorum veya göz önü
 <h1 align="center"> Merhaba, ben Kayra.</h1>
 <br>
 Yazılım geliştiricisiyim. 2 yıl alaylı olarak, 4 yıl mesleki eğitim ardından 2025'te meslekî okuldan mezun oldum. 
+<!--<p align="left"> <img src="https://komarev.com/ghpvc/?username=kayrakrh&label=Profile%20views&color=0e75b6&style=flat" alt="kayrakrh" /> </p>-->
 
 İrili ufaklı projeler geliştiriyorum.
 <br>
