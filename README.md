@@ -14,8 +14,8 @@ Yazılım geliştiricisiyim. 2 yıl alaylı olarak, 4 yıl mesleki eğitim ardı
 <br>
 Yazılım projeleriyle uğraşmıyorsam muhtemelen rehber hazırlıyor veya yazılım paketliyorumdur
 
-### Yeteneklerim
-[![My Skills](https://skillicons.dev/icons?i=bun,cs,python,linux,androidstudio,java)](https://skillicons.dev)
+### Yeteneklerim ve Kullandığım Araçlar
+[![My Skills](https://skillicons.dev/icons?i=bun,cs,python,linux,androidstudio,java,vscodium)](https://skillicons.dev)
 
 ### İletişim
 [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:bgmkayra@proton.me)
