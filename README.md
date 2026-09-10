@@ -5,8 +5,7 @@ Ben bir yazılım geliştiricisiyim. 2 yıl kendi deneyimim ve 4 yıl mesleki li
 Projelerle uğraşmadığım zamanlarda rehberler hazırlıyorum veya göz önünde olmayan dağıtımlar için popüler bazı projeleri paketliyorum
 -->
 
-## Kayra
-Merhaba, ben Kayra.
+<h1 align="center"> Merhaba, ben Kayra.</h1>
 <br>
 Yazılım geliştiricisiyim. 2 yıl alaylı olarak, 4 yıl mesleki eğitim ardından 2025'te meslekî okuldan mezun oldum. 
 
