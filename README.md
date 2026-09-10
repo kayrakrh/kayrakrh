@@ -19,11 +19,14 @@ Yazılım projeleriyle uğraşmıyorsam muhtemelen rehber hazırlıyor veya yaz�
 
 ### İletişim
 [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:bgmkayra@proton.me)
+[![Matrix](https://img.shields.io/badge/Matrix-8A2BE2?logo=matrix&logoColor=white)](https://matrix.to/#/@krhkayra:matrix.org)
+<!-- Burası biraz sade kaldı. Burası için iletişim kanalları eklesem iyi olur. Belki Matrix fln? -->
 
 ### Diller
 |  Çalışabildiğim Diller  | Öğrendiğim/Planladığım Diller |
 |---|---|
 | 🇹🇷 / 🇦🇿 / 🇺🇸 | 🇯🇵 (N5) / 🇬🇷 |
+<!-- kendime not: Pontusca için emoji ara.-->
 
 ## Projelerim ve Rehberlerim
 - [Son Kullanıcı İçin Linux Rehberi](https://github.com/kayrakrh/Linux-Rehberi)
